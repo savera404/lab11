@@ -1,0 +1,1 @@
+print("javeria and savera are friends they did this task mutually.")
